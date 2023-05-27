@@ -1,0 +1,83 @@
+/*ELEMENTS*/
+
+body {
+    background-color: darkseagreen;
+}
+
+
+
+
+label {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+h3 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 8%;
+}
+
+input:hover {
+    background-color: lightcoral;
+
+}
+
+li {
+
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+
+
+p {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: large;
+}
+
+td {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+th {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: 900;
+}
+
+/*CLASS*/
+.Contact {
+    border-radius: 25%;
+}
+
+.Links {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.Submit {
+    background-color: darkseagreen;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+.Round {
+    border-radius: 50%;
+}
+
+/*IDs*/
+#ContactBackground {
+    background-color: teal;
+}
+
+#HobbiesBackground {
+    background-color: darkolivegreen;
+}
